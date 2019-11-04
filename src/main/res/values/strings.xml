@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FriendsGroup</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+
+    <string name="label_first">First Name</string>
+    <string name="label_last">Last Name</string>
+    <string name="label_email">Email Address</string>
+    <string name="button_add">ADD</string>
+    <string name="button_back">BACK</string>
+</resources>
+
